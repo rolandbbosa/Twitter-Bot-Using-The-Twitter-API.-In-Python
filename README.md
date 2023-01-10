@@ -11,6 +11,6 @@ And also includes the Twitter Like Bot that likes  tweets that you have been tag
 
 Requirements
 
-pip install tweepy
-pip install textblob
-pip install schedule
+$ pip install tweepy
+$ pip install textblob
+$ pip install schedule
